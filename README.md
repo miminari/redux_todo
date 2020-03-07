@@ -1,3 +1,9 @@
+# my react redux todo list
+
+Reference:
+https://redux.js.org/basics/example
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
